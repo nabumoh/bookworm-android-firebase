@@ -29,6 +29,13 @@ Java Android school project that demonstrates a small book library app with Fire
 - `app/src/main/java/com/bookworm/firebaseapp/data`
 - `app/src/main/res/layout`
 
+## Screenshots
+
+- ![Screenshot 1](app/src/screenshots/s1.png)
+- ![Screenshot 2](app/src/screenshots/s2.png)
+- ![Screenshot 3](app/src/screenshots/s3.png)
+- ![Screenshot 4](app/src/screenshots/s4.png)
+
 
 
 ## Quick try
