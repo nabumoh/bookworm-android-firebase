@@ -31,10 +31,10 @@ Java Android school project that demonstrates a small book library app with Fire
 
 ## Screenshots
 
-- ![Screenshot 1](app/src/screenshots/s1.png)
-- ![Screenshot 2](app/src/screenshots/s2.png)
-- ![Screenshot 3](app/src/screenshots/s3.png)
-- ![Screenshot 4](app/src/screenshots/s4.png)
+<img src="app/src/screenshots/s1.png" alt="Screenshot 1" width="220" />
+<img src="app/src/screenshots/s2.png" alt="Screenshot 2" width="220" />
+<img src="app/src/screenshots/s3.png" alt="Screenshot 3" width="220" />
+<img src="app/src/screenshots/s4.png" alt="Screenshot 4" width="220" />
 
 
 
